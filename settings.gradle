@@ -1,0 +1,2 @@
+rootProject.name = "FieldCaptureV4"
+include ':app'
